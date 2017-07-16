@@ -5,7 +5,7 @@ The following is a filter using YCbCr Color Space, to filter the image pixel by 
 
 Looking forward to see your contributions, feel free to contact me anytime :).
 
-*HSL COLOR SPACE
+*YCbCr COLOR SPACE
 
 ![alt_text](https://image.ibb.co/cXOSkF/YCbCr.png)
 _____________________________
